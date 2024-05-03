@@ -5,7 +5,6 @@
 📞 Contact: 7352954855, 9877135593  
 
 
-🐙 GitHub: [Anurag-anand-anu](https://github.com/Anurag-anand-anu)  
 🔗 LinkedIn: [Anurag Anand](https://www.linkedin.com/in/anurag-anand-455833201/)  
 🥇 CodeChef: [anuannad](https://www.codechef.com/users/anuannad)  
 💡 LeetCode: [Anuraglpu](https://leetcode.com/u/Anuraglpu/)
