@@ -1,8 +1,5 @@
 <div class="container">
   <div class="row">
-    <div class="col-md-4">
-      <img src="anurag.png" width="150px" height="150" class="img-fluid">
-    </div>
     <div class="col-md-8">
       <p><strong>Email:</strong> anuraganand448@gmail.com</p>
       <p><strong>Contact:</strong> 7352954855, 9877135593</p>
