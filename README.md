@@ -1,5 +1,6 @@
 
 📝 Summary: Enthusiastic and motivated Computer Science and Engineering graduate seeking a software development role to leverage skills in programming, problem-solving, and collaboration to contribute effectively to a dynamic team and make meaningful contributions in the field of technology.
+
 📧 Email: anuraganand448@gmail.com  
 📞 Contact: 7352954855, 9877135593  
 
