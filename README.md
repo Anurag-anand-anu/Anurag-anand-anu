@@ -11,11 +11,12 @@
 
   <hr>
 
-## Programming Languages:   | ## Web Development:      | ## Database Management: | ## Frameworks & Platforms: | ## Testing:
-- C                         | - HTML                   | - MySQL                | - Eclipse                  | - SDLC
-- C++                       | - CSS                    | - MongoDB              | - VsCode                   | - STLC
-- C#                        | - JavaScript             |                        | - MySQL-workbench          | - Selenium
-- Python                    | - Bootstrap              |                        | - Apache-Server            | - Appium
-- Core Java                 | - React.js               |                        | - AndroidStudio            | - Junit
-                            | - PHP                    |                        | - Appium-Inspector & Appium| - Jira
-                            | - WordPress              |                        | - Selenium                 |
+| ## Programming Languages: | ## Web Development:       | ## Database Management: | ## Frameworks & Platforms: | ## Testing: |
+|---------------------------|---------------------------|-------------------------|----------------------------|-------------|
+| - C                       | - HTML                    | - MySQL                 | - Eclipse                  | - SDLC      |
+| - C++                     | - CSS                     | - MongoDB               | - VsCode                   | - STLC      |
+| - C#                      | - JavaScript              |                         | - MySQL-workbench          | - Selenium  |
+| - Python                  | - Bootstrap               |                         | - Apache-Server            | - Appium    |
+| - Core Java               | - React.js                |                         | - AndroidStudio            | - Junit     |
+|                           | - PHP                     |                         | - Appium-Inspector & Appium| - Jira      |
+|                           | - WordPress               |                         | - Selenium                 |             |
