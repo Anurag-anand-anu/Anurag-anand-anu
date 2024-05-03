@@ -6,8 +6,8 @@
 
 
 🔗 LinkedIn: [Anurag Anand](https://www.linkedin.com/in/anurag-anand-455833201/)  
-🥇 CodeChef: [anuannad](https://www.codechef.com/users/anuannad)  
-💡 LeetCode: [Anuraglpu](https://leetcode.com/u/Anuraglpu/)
+🥇 CodeChef: [Anurag Anand](https://www.codechef.com/users/anuannad)  
+💡 LeetCode: [Anurag Anand](https://leetcode.com/u/Anuraglpu/)
 
   <hr>
 
