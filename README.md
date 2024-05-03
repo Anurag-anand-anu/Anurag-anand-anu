@@ -17,6 +17,6 @@
 | - C++                     | - CSS                     | - MongoDB               | - VsCode                   | - STLC      |
 | - C#                      | - JavaScript              |                         | - MySQL-workbench          | - Selenium  |
 | - Python                  | - Bootstrap               |                         | - Apache-Server            | - Appium    |
-| - Java                    | - React.js                |                         | - AndroidStudio            | - Junit4    |
+| - Java                    | - MERN FullStack          |                         | - AndroidStudio            | - Junit4    |
 |                           | - PHP                     |                         | - Appium-Inspector & Appium| - Jira      |
 |                           | - WordPress               |                         | - Selenium                 |             |
