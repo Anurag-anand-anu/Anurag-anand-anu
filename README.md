@@ -8,8 +8,6 @@
 🥇 CodeChef: [anuannad](https://www.codechef.com/users/anuannad)  
 💡 LeetCode: [Anuraglpu](https://leetcode.com/u/Anuraglpu/)
 
-
-
   <hr>
 
 | ## Programming Languages: | ## Web Development:       | ## Database Management: | ## Frameworks & Platforms: | ## Testing: |
